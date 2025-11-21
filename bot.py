@@ -27,6 +27,7 @@ def main():
 
     # Configura modo headless do navegador
     bot.headless = True
+    #alteracao
 
     # Seleciona o navegador a ser utilizado
     bot.browser = Browser.FIREFOX
